@@ -1,4 +1,4 @@
-allow_embedding: false
+allow_embedding: true
 package_name: Webform_Template
 db_schema:
   users:
